@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.mat-form-field-appearance-outline .mat-form-field-infix {
+    padding: 6px 0 10px 0 !important;
+}
+
+.mat-form-field-appearance-outline .mat-form-field-outline {
+    background-color: #f7f8fe;
+}
+mat-icon 
+{
+    color: #686868;
+}
+.mat-raised-button:not([class*=mat-elevation-z])
+{
+    box-shadow: none;
+    border: 1px solid #e9eaf1 !important;
+    color: #686868;
+}
