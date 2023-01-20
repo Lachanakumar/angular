@@ -1,5 +1,7 @@
 # Modern Login Page use Angular Material
 
+Run Command after download the source code. The command line is npm install
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
 
 ## Development server
